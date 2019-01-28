@@ -22,6 +22,13 @@ This is an assignment for practicing basic programming and code interfacing. Foc
 On the `file_rename.sh`, I essentially loop through the filenames that end with .txt. I check the number of lines  
 of each files and if they fit the criteria, they'll be renamed according to the requirements above.
    
+### Photos
+![](photos/0_created_files.PNG)  
+Generated Text Files. The filename indicates the number of lines during creation  
+![](photos/1_renaming.jpg)  
+Running the shell files  
+![](photos/after_script.PNG)  
+`ls` after running the script  
 ```
 3. create a repo on github/gitlab/bitbucket and add/revise/branch/merge files, submit your repo address so your actions can be checked.
 
